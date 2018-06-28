@@ -1,0 +1,20 @@
+D:\hoc tap\Ki8 2017-2018\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\bin\Debug\BaiCuoiKy_Dijkstra.exe.config
+D:\hoc tap\Ki8 2017-2018\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\bin\Debug\BaiCuoiKy_Dijkstra.exe
+D:\hoc tap\Ki8 2017-2018\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\bin\Debug\BaiCuoiKy_Dijkstra.pdb
+D:\hoc tap\Ki8 2017-2018\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.csprojResolveAssemblyReference.cache
+D:\hoc tap\Ki8 2017-2018\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.Form1.resources
+D:\hoc tap\Ki8 2017-2018\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.Properties.Resources.resources
+D:\hoc tap\Ki8 2017-2018\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.csproj.GenerateResource.cache
+D:\hoc tap\Ki8 2017-2018\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.csproj.CoreCompileInputs.cache
+D:\hoc tap\Ki8 2017-2018\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.exe
+D:\hoc tap\Ki8 2017-2018\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.pdb
+D:\hoctap\hoctap\Ki8 2017-2018\ThucTapCNTT\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\bin\Debug\BaiCuoiKy_Dijkstra.exe.config
+D:\hoctap\hoctap\Ki8 2017-2018\ThucTapCNTT\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\bin\Debug\BaiCuoiKy_Dijkstra.exe
+D:\hoctap\hoctap\Ki8 2017-2018\ThucTapCNTT\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\bin\Debug\BaiCuoiKy_Dijkstra.pdb
+D:\hoctap\hoctap\Ki8 2017-2018\ThucTapCNTT\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.csprojAssemblyReference.cache
+D:\hoctap\hoctap\Ki8 2017-2018\ThucTapCNTT\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.Form1.resources
+D:\hoctap\hoctap\Ki8 2017-2018\ThucTapCNTT\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.Properties.Resources.resources
+D:\hoctap\hoctap\Ki8 2017-2018\ThucTapCNTT\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.csproj.GenerateResource.cache
+D:\hoctap\hoctap\Ki8 2017-2018\ThucTapCNTT\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.csproj.CoreCompileInputs.cache
+D:\hoctap\hoctap\Ki8 2017-2018\ThucTapCNTT\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.exe
+D:\hoctap\hoctap\Ki8 2017-2018\ThucTapCNTT\ThucTapCNTT\BaiCuoiKy_Dijkstra\BaiCuoiKy_Dijkstra\obj\Debug\BaiCuoiKy_Dijkstra.pdb
